@@ -1,3 +1,7 @@
+a {
+  text-decoration: none !important;
+}
+
 .card {
   border: 1px solid black;
   border-radius: 1em;
@@ -8,12 +12,14 @@
   padding: 3%;
   text-align: center;
   box-shadow: 1px 1px 1px 1px lightgrey;
+  color: black;
 }
 
 .card:hover {
   cursor: pointer;
   transform: scale(1.01)
 }
+
 
 .card-image {
   width: 90%;
