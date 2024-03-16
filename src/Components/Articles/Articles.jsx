@@ -1,9 +1,12 @@
 import './Articles.css';
 import ArticleCard from '../ArticleCard/ArticleCard';
-// import { useState } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 
 function Articles( { articles }) {
+
+  if (!articles.length) {
+    return <p>Sorry, there are no articles that match.</p>
+  }
 
   const articleCards = articles.map(article => {
     return <ArticleCard
