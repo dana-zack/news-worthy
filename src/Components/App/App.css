@@ -6,7 +6,7 @@
 
 h1 {
   font-family: "Roboto Serif", serif;
-  font-size: 70px;
+  font-size: 90px;
   color: red;
   text-shadow:
   2px 2px 0 #000,
@@ -16,7 +16,7 @@ h1 {
   margin-bottom: 20px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 640px) {
   h1 {
     font-size: 55px;
   }

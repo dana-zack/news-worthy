@@ -4,9 +4,9 @@ import { v4 as uuidv4 } from 'uuid';
 import { Link } from 'react-router-dom';
 
 function Articles({ articles, setStory, formatDate }) {
-
+  
   if (!articles.length) {
-    return <p>Sorry, there are no articles that match.</p>;
+    return <p className='loading-msg'>Loading...</p>;
   }
 
   const articleCards = articles.map(article => {
@@ -26,14 +26,14 @@ function Articles({ articles, setStory, formatDate }) {
           key={uuidv4()}
         />
       </Link>
-    )
-  })
+    );
+  });
 
   return (
     <section>
       {articleCards}
     </section>
   );
-}
+};
 
 export default Articles;
