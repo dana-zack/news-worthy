@@ -1,5 +1,6 @@
 a {
   text-decoration: none !important;
+  cursor: auto;
 }
 
 .card {
@@ -11,13 +12,12 @@ a {
   margin: 20px 15%;
   padding: 3%;
   text-align: center;
-  box-shadow: 1px 1px 1px 1px lightgrey;
   color: black;
 }
 
 .card:hover {
+  transform: scale(1.01);
   cursor: pointer;
-  transform: scale(1.01)
 }
 
 .card-image {

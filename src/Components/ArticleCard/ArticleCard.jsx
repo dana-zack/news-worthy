@@ -1,4 +1,5 @@
 import './ArticleCard.css';
+import PropTypes from 'prop-types';
 
 function ArticleCard({ description, publishedAt, title, urlToImage, formatDate }) {
   
@@ -14,3 +15,10 @@ function ArticleCard({ description, publishedAt, title, urlToImage, formatDate }
 
 export default ArticleCard;
 
+ArticleCard.propTypes = {
+  description: PropTypes.string.isRequired,
+  publishedAt: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
+  urlToImage: PropTypes.string.isRequired,
+  formatDate: PropTypes.func.isRequired
+};

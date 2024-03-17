@@ -1,5 +1,6 @@
 import './ArticleDetails.css';
 import { Link } from 'react-router-dom';
+import PropTypes from 'prop-types';
 
 function ArticleDetails({ story, formatDate }) {
   if (story.title) {
@@ -19,3 +20,8 @@ function ArticleDetails({ story, formatDate }) {
 };
 
 export default ArticleDetails;
+
+ArticleDetails.propTypes = {
+  story: PropTypes.object.isRequired,
+  formatDate: PropTypes.func.isRequired
+};

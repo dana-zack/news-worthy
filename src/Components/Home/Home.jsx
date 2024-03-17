@@ -1,6 +1,7 @@
 import './Home.css';
 import Search from '../Search/Search';
 import Articles from '../Articles/Articles';
+import PropTypes from 'prop-types';
 
 function Home({ articles, setArticles, topic, setTopic, setStory, formatDate }) {
   return (
@@ -14,3 +15,12 @@ function Home({ articles, setArticles, topic, setTopic, setStory, formatDate }) 
 };
 
 export default Home;
+
+Home.propTypes = {
+  articles: PropTypes.arrayOf(PropTypes.object).isRequired,
+  setArticles: PropTypes.func.isRequired,
+  topic: PropTypes.string.isRequired,
+  setTopic: PropTypes.func.isRequired,
+  setStory: PropTypes.func.isRequired,
+  formatDate: PropTypes.func.isRequired
+};
