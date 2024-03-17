@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 function Articles({ articles, setStory, formatDate }) {
   
   if (!articles.length) {
-    return <p className='loading-msg'>Loading...</p>;
+    return <p className='error-msg'>Loading...</p>;
   }
 
   const articleCards = articles.map(article => {

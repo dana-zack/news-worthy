@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 43,
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Business"
+          },
+          "author": "Timothy Nerozzi",
+          "title": "MOCK Social media giant Meta under investigation for alleged drug sales on its platforms: WSJ - Fox Business",
+          "description": "Tech giant Meta, parent company of social media apps Facebook and Instagram, is being probed by federal authorities related to the sale of illicit substances via its platforms.",
+          "url": "https://www.foxbusiness.com/fox-news-tech/social-media-giant-meta-investigation-alleged-drug-sales-platforms-wsj",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/GettyImages-1579872617-copy.jpg?ve=1&tl=1",
+          "publishedAt": "2024-03-16T16:16:00Z",
+          "content": "Tech giant Meta and its various social media subsidiaries are under investigation regarding their use as a platform for drug sales.\r\nMeta — the tech company that owns Facebook and Instagram — is bein… [+2873 chars]"
+      },
+      {
+          "source": {
+              "id": "the-washington-post",
+              "name": "The Washington Post"
+          },
+          "author": "Ellen Francis, Amber Ferguson",
+          "title": "MOCK Boeing 737-800 missing panel after United Airlines flight lands in Oregon - The Washington Post",
+          "description": "A United Airlines Boeing 737-800 that landed Friday in Oregon’s Medfort Airport from San Francisco was missing an external panel, officials said.",
+          "url": "https://www.washingtonpost.com/transportation/2024/03/16/boeing-plane-panel-missing-united-airlines-oregon/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J3XUNPFZABFKAQUENBB5EIVB2I.jpg&w=1440",
+          "publishedAt": "2024-03-16T16:13:10Z",
+          "content": "Investigators are looking into why a Boeing plane was missing an external panel after a San Francisco to Oregon flight, officials said. The company was already facing heightened scrutiny from travele… [+2726 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Business"
+          },
+          "author": "Michael Dorgan",
+          "title": "MOCK Lottery winner claims colossal $1.765B Powerball ticket from October - Fox Business",
+          "description": "A person representing a group of lottery players has come forward to claim October's massive $1.765 billion Powerball jackpot win",
+          "url": "https://www.foxbusiness.com/personal-finance/lottery-winner-claims-colossal-1-765b-powerball-ticket-october",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Powerball.jpg?ve=1&tl=1",
+          "publishedAt": "2024-03-16T15:01:00Z",
+          "content": "The Golden State with the golden ticket.\r\nThe California Lottery has revealed that a person has come forward to claim the massive $1.765 billion Powerball jackpot win from October – the second-larges… [+3180 chars]"
+      }
+  ]
+}
