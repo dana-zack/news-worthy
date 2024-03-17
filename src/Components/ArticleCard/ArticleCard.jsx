@@ -2,8 +2,6 @@ import './ArticleCard.css';
 
 function ArticleCard({ description, publishedAt, title, urlToImage, formatDate }) {
   
-
-
   return (
     <article className='card'>
       <h2>{title}</h2>
@@ -12,7 +10,7 @@ function ArticleCard({ description, publishedAt, title, urlToImage, formatDate }
       <p>{formatDate(publishedAt)}</p>
     </article>
   );
-}
+};
 
 export default ArticleCard;
 
