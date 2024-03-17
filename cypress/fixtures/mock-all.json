@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "The Athletic"
+          },
+          "author": "Randy Mueller",
+          "title": "MOCK 2024 NFL free-agency tracker: From Danielle Hunter to Jamal Adams, see where top 150 players land - The Athletic",
+          "description": "NFL free agency begins at noon Monday when the tampering window opens. Track the best available players (and where they land) right here.",
+          "url": "https://theathletic.com/5318482/2024/03/14/nfl-free-agent-rankings-tracker/",
+          "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/07191019/0308_NFL_Top150FA.png",
+          "publishedAt": "2024-03-15T00:05:52Z",
+          "content": "NFL free agency is in full swing, with the legal tampering window opening Monday and the new league year beginning Wednesday at 4 p.m. ET.\r\nThese are my updated rankings and scouting reports of the t… [+97690 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Eric Levenson, Lauren del Valle, Jean Casarez, Aaron Pellish, Elise Hammond",
+          "title": "MOCK Father of Michigan school shooter found guilty of manslaughter weeks after mother’s conviction - CNN",
+          "description": "James Crumbley, the father of the teenager who killed four students at a Michigan high school in 2021, was found guilty of involuntary manslaughter.",
+          "url": "https://www.cnn.com/2024/03/14/us/james-crumbley-manslaughter-trial-thursday/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2074381090.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2024-03-14T23:48:00Z",
+          "content": "James Crumbley, the father of the teenager who killed four students at a Michigan high school in 2021, was found guilty of involuntary manslaughter in a trial that comes a month after the shooters mo… [+6984 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Desert Sun"
+          },
+          "author": null,
+          "title": "MOCK Photos: Bees swarm stadium at BNP Paribas Open, halting match - Desert Sun",
+          "description": "A BNP Paribas Open match between Carlos Alcaraz and Alexander Zverev was halted Thursday when a swarm of bees descended on the Indian Wells stadium.",
+          "url": "https://www.desertsun.com/picture-gallery/sports/tennis/bnp/2024/03/14/bnp-paribas-open-bees-swarm-stadium-halting-match-photos/72979852007/",
+          "urlToImage": "https://www.desertsun.com/gcdn/authoring/authoring-images/2024/03/14/PPAS/72979314007-20240314-bnp-paribas-open-thursday-004.jpg?crop=2997,1686,x0,y249&width=2997&height=1686&format=pjpg&auto=webp",
+          "publishedAt": "2024-03-14T23:26:48Z",
+          "content": "A swarm of bees causes a delay as it covers the Spidercam during the Carlos Alcaraz vs. Alexander Zverev match at the BNP Paribas Open in Indian Wells Tennis Garden, CA, on March 14, 2024.\r\nBrandon M… [+2874 chars]"
+      }
+  ]
+}
